@@ -9,23 +9,35 @@
 ### How is the district summary affected?
 When we compare the data between the original district summary and the new ditrict summary we can tell that average math scores and average reading scores stayed very close. 
 
-![Code1]("Resources/original_district_summary.png")
+![Code1](Resources/original_district_summary.png)
 
-![Code1]("Resources/new_district_summary.png")
+In the updated version there was a slight drop in percenteage but that is due to removing the 9th graders from the data. 
 
+![Code1](Resources/updated_district_summary.png)
 
 
 ### How is the school summary affected?
+By looking at the original school summary we can see that lower schools had much higher math and reading percentages. 
 
-![Code1]("Resources/old_school_summary.png")
+![Code1](Resources/original_school_summary.png)
 
-![Code1]("Resources/new_school_summary.png")
+After we updated teh data we can see that Wilson High School and Wright High Schools both had a signicant percentage drop in both math and reading. 
+
+![Code1](Resources/updated_school_summary.png)
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Thomas High School scores did not see much of a drop after removing the 9th graders from the data. Thje prop was so small that it hardly made a diffrence between the two types of data. 
+
+![Code1](Resources/thomas_old_summary.png)
+
+![Code1](Resources/thomas_updated_summary.png)
 
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
+
+
 
 ### Scores by school spending
 
