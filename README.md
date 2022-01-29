@@ -37,8 +37,9 @@ Thomas High School scores did not see much of a drop after removing the 9th grad
 
 ### Math and reading scores by grade
 In the original data we can see that the 9th grade scores were part of the complete count of our data that was collected. 
-![Code1](Resources/original_math_scores.png) 
 
+
+![Code1](Resources/original_math_scores.png) 
 
 ![Code1](Resources/original_reading_scores.png)
 
@@ -47,7 +48,7 @@ In the original data we can see that the 9th grade scores were part of the compl
 ![Code1](Resources/updated_math_scores.png)
 
 
-With our updated data we used the NaN function to remove the 9th grade scores due to dishnesty that happened during the testing. 
+With our updated data we used the NaN function to remove the 9th grade scores due to dishonesty that happened during the testing. 
 
 ### Scores by school spending
 When we look at the scores by spending we can tell that there was no change between the original spending data and the updated data when it comes to Thomas High School. 
@@ -67,9 +68,13 @@ As we start to compare Thomas High School's score to the other 4 schools that fa
 
 
 ### Scores by school type
-By compamring Charter and District schools we can see that Charter schools have a much higher reading and math scores. When comparing their percentage thats where we see the biggest advantege over the District schools. 
+By compamring Charter and District schools we can see that Charter schools have a much higher reading and math scores. When comparing their percentage thats where we see the biggest advantege in Charter schools over the District schools. 
 
 ![Code1](Resources/updated_school_type.png)
 
 # Summary 
+In this analysis we can see that by removing the ninth graders from the Thomas High School that it made some difference in the average reading scores, math scores and the percentage. However the change is very minimum when you compare it to other schools of this size.  
+
+
+
 
