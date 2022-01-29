@@ -31,20 +31,44 @@ Thomas High School scores did not see much of a drop after removing the 9th grad
 
 ![Code1](Resources/thomas_old_summary.png)
 
-![Code1](Resources/thomas_updated_summary.png)
+![Code1](Resources/thomas_new_summary.png)
 
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
-In the original dat awe can see that the 9th grade scores were part of the complete count of our data that was collected. 
-![Code1](Resources/original_math_scores.png) , ![Code1](Resources/original_reading_scores.png)
+In the original data we can see that the 9th grade scores were part of the complete count of our data that was collected. 
+![Code1](Resources/original_math_scores.png) , 
 
-With our updated data we had to remove the 9th graders from out lower 3 schools due to dishonesty and not enough data to be able to provide  
+ ![Code1](Resources/original_reading_scores.png)
+
+ ![Code1](Resources/updated_reading_scores.png)
+
+ ![Code1](Resources/updated_math_scores.png)
+
+
+With our updated data we used the NaN function to remove the 9th grade scores due to dishnesty that happened during the testing. 
 
 ### Scores by school spending
+When we look at the scores by spending we can tell that there was no change between the original spending data and the updated data when it comes to Thomas High School. 
+
+![Code1](Resources/original_spending.png)
+
+They are identical even with us removing the 9th graders it made no impact on the percentage or the average math and reading scores. 
+
+![Code1](Resources/updated_spending.png)
+
 
 ### Scores by school size
+As we start to compare Thomas High School's score to the other 4 schools that fall under the same school size we start to see that the scores are very close to each other. Cabreara High School has the highest scores and is cheapest to operate per student cost. 
+
+
+![Code1](Resources/school_size.png)
+
 
 ### Scores by school type
+By compamring Charter and District schools we can see that Charter schools have a much higher reading and math scores. When comparing their percentage thats where we see the biggest advantege over the District schools. 
+
+![Code1](Resources/updated_school_type.png)
 
 # Summary 
+
