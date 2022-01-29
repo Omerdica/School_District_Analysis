@@ -21,13 +21,13 @@ By looking at the original school summary we can see that lower schools had much
 
 ![Code1](Resources/original_school_summary.png)
 
-After we updated teh data we can see that Wilson High School and Wright High Schools both had a signicant percentage drop in both math and reading. 
+After we updated the data we can see that Wilson High School and Wright High Schools both had a signicant percentage drop in both math and reading. 
 
 ![Code1](Resources/updated_school_summary.png)
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Thomas High School scores did not see much of a drop after removing the 9th graders from the data. Thje prop was so small that it hardly made a diffrence between the two types of data. 
+Thomas High School scores did not see much of a drop after removing the 9th graders from the data. The drop was so small that it hardly made a diffrence between the two types of data. 
 
 ![Code1](Resources/thomas_old_summary.png)
 
@@ -36,8 +36,10 @@ Thomas High School scores did not see much of a drop after removing the 9th grad
 ## How does replacing the ninth-grade scores affect the following:
 
 ### Math and reading scores by grade
+In the original dat awe can see that the 9th grade scores were part of the complete count of our data that was collected. 
+![Code1](Resources/original_math_scores.png) , ![Code1](Resources/original_reading_scores.png)
 
-
+With our updated data we had to remove the 9th graders from out lower 3 schools due to dishonesty and not enough data to be able to provide  
 
 ### Scores by school spending
 
