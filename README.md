@@ -40,7 +40,7 @@ In the original data we can see that the 9th grade scores were part of the compl
 
 ![Code1](Resources/original_math_scores.png)
 
-![Code1](Resources/original_reading_scores.png)
+![Code1](Resources/original_reading1_scores.png)
 
 With our updated data we used the NaN function to remove the 9th grade scores due to dishonesty that happened during the testing. 
 
