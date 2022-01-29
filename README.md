@@ -44,9 +44,9 @@ In the original data we can see that the 9th grade scores were part of the compl
 
 With our updated data we used the NaN function to remove the 9th grade scores due to dishonesty that happened during the testing. 
 
-![Code1](Resources/updated_reading_scores.png)
+![Code1](Resources/updated_mathscores.png)
 
-![Code1](Resources/updated_math_scores.png)
+![Code1](Resources/updated_readingscores.png)
 
 ### Scores by school spending
 When we look at the scores by spending we can tell that there was no change between the original spending data and the updated data when it comes to Thomas High School. 
